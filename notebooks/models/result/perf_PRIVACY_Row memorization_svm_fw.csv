@@ -1,0 +1,2 @@
+target_name,model_name,feature_name,accuracy,balanced_accuracy,f05_score,f2_score,f1,specificity,sensitivity
+PRIVACY_Row memorization,svm,fw,0.8793103448275862,0.9339622641509434,0.9704641350210971,0.9292929292929293,0.8914728682170543,1.0,0.8679245283018868

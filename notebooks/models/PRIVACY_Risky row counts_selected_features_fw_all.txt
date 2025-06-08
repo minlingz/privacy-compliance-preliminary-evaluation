@@ -1,0 +1,6 @@
+pct_indirect_ids
+cap_row_count
+avg_unique_values
+std_equivalence_class_size
+std_indirect_id_unique_values
+avg_equivalence_class_size

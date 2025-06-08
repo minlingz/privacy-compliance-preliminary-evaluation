@@ -1,0 +1,4 @@
+avg_equivalence_class_size
+pct_indirect_ids
+avg_unique_values
+num_equivalence_classes

@@ -1,0 +1,2 @@
+target_name,model_name,feature_name,accuracy,balanced_accuracy,f05_score,f2_score,f1,specificity,sensitivity
+PRIVACY_Risky row counts,base,man,0.7372881355932204,0.6179078014184397,0.8406113537117904,0.8324324324324325,0.8244111349036403,0.4166666666666667,0.8191489361702128
